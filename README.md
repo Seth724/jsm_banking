@@ -1,3 +1,6 @@
+# jsm_banking
+JSM Banking App A modern banking application built with Next.js, React 19, and TypeScript, featuring a responsive UI powered by Tailwind CSS. This project includes functionalities such as transaction management, account type categorization, and dynamic UI components. It leverages libraries like clsx, tailwind-merge, and query-string .
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
